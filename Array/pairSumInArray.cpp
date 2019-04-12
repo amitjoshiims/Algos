@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX  9999 /* Just to avoid space I have given 9999 value to MAX */
+#define MAX  9999 /* Just to save space I have given 9999 value to MAX */
 
 void printPairs(int arr[], int n, int sum);
 //main...
